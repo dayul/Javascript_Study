@@ -1,0 +1,16 @@
+main {
+    border: 3px dotted #666;
+}
+section {
+    float: left;
+    width: 23%;
+    height: 100px;
+    margin: 1%;
+    background-color: lightgoldenrodyellow;
+}
+article {
+    clear: both;    /*양쪽 다 float제거*/
+    height: 50px;
+    margin: 1%;
+    background-color: lightcoral;
+}
