@@ -11,14 +11,14 @@ body {
     background-color: coral;
 }
 .relative {
-    position: relative;
+    position: relative;     /*적용 전 원래의 자리가 기준 */
     left: 100px;
     top: 100px;
     
 }
 
 .absolute {
-    position: absolute;
+    position: absolute;     /*원점이 기준*/
     background-color: royalblue;
     left: 100px;
     top: 100px;
